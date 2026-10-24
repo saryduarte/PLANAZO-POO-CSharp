@@ -1,0 +1,14 @@
+C:\Users\baena\OneDrive\Documentos\PLANAZO-POO-CSharp\bin\Debug\net10.0\PLANAZO-POO-CSharp.exe
+C:\Users\baena\OneDrive\Documentos\PLANAZO-POO-CSharp\bin\Debug\net10.0\PLANAZO-POO-CSharp.deps.json
+C:\Users\baena\OneDrive\Documentos\PLANAZO-POO-CSharp\bin\Debug\net10.0\PLANAZO-POO-CSharp.runtimeconfig.json
+C:\Users\baena\OneDrive\Documentos\PLANAZO-POO-CSharp\bin\Debug\net10.0\PLANAZO-POO-CSharp.dll
+C:\Users\baena\OneDrive\Documentos\PLANAZO-POO-CSharp\bin\Debug\net10.0\PLANAZO-POO-CSharp.pdb
+C:\Users\baena\OneDrive\Documentos\PLANAZO-POO-CSharp\obj\Debug\net10.0\PLANAZO-POO-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baena\OneDrive\Documentos\PLANAZO-POO-CSharp\obj\Debug\net10.0\PLANAZO-POO-CSharp.AssemblyInfoInputs.cache
+C:\Users\baena\OneDrive\Documentos\PLANAZO-POO-CSharp\obj\Debug\net10.0\PLANAZO-POO-CSharp.AssemblyInfo.cs
+C:\Users\baena\OneDrive\Documentos\PLANAZO-POO-CSharp\obj\Debug\net10.0\PLANAZO-POO-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\baena\OneDrive\Documentos\PLANAZO-POO-CSharp\obj\Debug\net10.0\PLANAZO-POO-CSharp.dll
+C:\Users\baena\OneDrive\Documentos\PLANAZO-POO-CSharp\obj\Debug\net10.0\refint\PLANAZO-POO-CSharp.dll
+C:\Users\baena\OneDrive\Documentos\PLANAZO-POO-CSharp\obj\Debug\net10.0\PLANAZO-POO-CSharp.pdb
+C:\Users\baena\OneDrive\Documentos\PLANAZO-POO-CSharp\obj\Debug\net10.0\PLANAZO-POO-CSharp.genruntimeconfig.cache
+C:\Users\baena\OneDrive\Documentos\PLANAZO-POO-CSharp\obj\Debug\net10.0\ref\PLANAZO-POO-CSharp.dll
